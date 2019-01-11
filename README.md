@@ -40,9 +40,9 @@ $ npm i mysql
 
 ## Features
 
-Allows a customer to place a order based on inventory avaliable.
+1. Allows a customer to place a order based on inventory avaliable.
 
-Once order is placed by customer, the item and quantity is subtracted from total inventory. Updating other customers on current inventory.
+2. Once order is placed by customer, the item and quantity is subtracted from total inventory. Updating other customers on current inventory.
 
 ---
 
