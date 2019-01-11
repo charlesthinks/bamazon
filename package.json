@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Beta Amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/charlesthinks/bamazon.git"
+  },
+  "keywords": [
+    "Amazon",
+    "MySQL",
+    "Node.js"
+  ],
+  "author": "CharlesThinks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesthinks/bamazon/issues"
+  },
+  "homepage": "https://github.com/charlesthinks/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
