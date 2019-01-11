@@ -22,25 +22,7 @@
 
 ---
 
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
-
----
-
 ## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ### Clone
 
@@ -48,22 +30,19 @@ let generateProject = project => {
 
 ### Setup
 
-> update and install this package first
+> install packages
 
 ```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
+$ npm i inquirer
+$ npm i mysql
 ```
 ---
 
 ## Features
+
+Allows a customer to place a order based on inventory avaliable.
+
+Once order is placed by customer, the item and quantity is subtracted from total inventory. Updating other customers on current inventory.
 
 ---
 
