@@ -1,6 +1,3 @@
-# bamazon
-an Amazon-like storefront with the MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
-
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
