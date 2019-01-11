@@ -8,6 +8,14 @@
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+## Table of Contents (Optional)
+
+- [Installation](#installation)
+- [Features](#features)
+- [License](#license)
+
+---
+
 ***INSERT ANOTHER GRAPHIC HERE***
 
 [![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
@@ -33,21 +41,6 @@
 **ttystudio**
 
 ![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
-
-> If you're `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
 
 ---
 
